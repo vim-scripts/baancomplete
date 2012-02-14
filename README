@@ -6,3 +6,4 @@ Features:
     Function argument completion
     completeopt+=preview support, displaying DllUsage/EndDllUsage comments
 
+If you have any issues or suggestions please visit the github page (https://github.com/mfussenegger/baancomplete) and open an issue.
